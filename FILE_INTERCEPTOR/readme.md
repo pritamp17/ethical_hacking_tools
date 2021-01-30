@@ -22,7 +22,7 @@ cd Rotten-Scripts/python/Network_Scanner
 ```
 ```bash
 python network_scanner.py
-
+```
 ## Output
 
 ![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/FILE_INTERCEPTOR/Linux.png?raw=true)
