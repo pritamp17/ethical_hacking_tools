@@ -29,8 +29,8 @@ go run port_scanner.go
 ## Output
 
 ![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/port-scanner-go/1new.jpg?raw=true)
-![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/port-scanner-go/2new.png?raw=true)
-![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/port-scanner-go/3new.png?raw=true)
+![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/port-scanner-go/2new.jpg?raw=true)
+![](https://github.com/pritamp17/ethical_hacking_tools/blob/main/port-scanner-go/3new.jpg?raw=true)
 
 ## Author
   Pritam Pawar.
