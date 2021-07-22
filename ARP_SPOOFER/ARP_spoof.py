@@ -2,8 +2,8 @@ import scapy.all as scapy
 import time
 # import sys
 
-target_ip="192.168.43.147"
-router_ip = "192.168.43.1"
+target_ip="192.000.00.000"
+router_ip = "192.16.00.00"
 
 
 def get_mac(ip):     #getting mac address of target
