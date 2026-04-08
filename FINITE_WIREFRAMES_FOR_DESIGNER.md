@@ -337,7 +337,3 @@ All screenshots in `/screens/` are **current coded state** from the React Native
 
 ---
 
-*"Don't postpone. Complete your work on a daily basis." — Chanakya*
-
-**Reach out anytime. Let's ship this.**
-— Pritam
